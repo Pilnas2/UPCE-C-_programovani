@@ -1,0 +1,15 @@
+C:\Users\marti\source\repos\exercise-01-Pilnas2\Intro\bin\Debug\net7.0\Exercise01-intro.exe
+C:\Users\marti\source\repos\exercise-01-Pilnas2\Intro\bin\Debug\net7.0\Exercise01-intro.deps.json
+C:\Users\marti\source\repos\exercise-01-Pilnas2\Intro\bin\Debug\net7.0\Exercise01-intro.runtimeconfig.json
+C:\Users\marti\source\repos\exercise-01-Pilnas2\Intro\bin\Debug\net7.0\Exercise01-intro.dll
+C:\Users\marti\source\repos\exercise-01-Pilnas2\Intro\bin\Debug\net7.0\Exercise01-intro.pdb
+C:\Users\marti\source\repos\exercise-01-Pilnas2\Intro\obj\Debug\net7.0\Exercise01-intro.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\exercise-01-Pilnas2\Intro\obj\Debug\net7.0\Exercise01-intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\exercise-01-Pilnas2\Intro\obj\Debug\net7.0\Exercise01-intro.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\exercise-01-Pilnas2\Intro\obj\Debug\net7.0\Exercise01-intro.AssemblyInfo.cs
+C:\Users\marti\source\repos\exercise-01-Pilnas2\Intro\obj\Debug\net7.0\Exercise01-intro.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\exercise-01-Pilnas2\Intro\obj\Debug\net7.0\Exercise01-intro.dll
+C:\Users\marti\source\repos\exercise-01-Pilnas2\Intro\obj\Debug\net7.0\refint\Exercise01-intro.dll
+C:\Users\marti\source\repos\exercise-01-Pilnas2\Intro\obj\Debug\net7.0\Exercise01-intro.pdb
+C:\Users\marti\source\repos\exercise-01-Pilnas2\Intro\obj\Debug\net7.0\Exercise01-intro.genruntimeconfig.cache
+C:\Users\marti\source\repos\exercise-01-Pilnas2\Intro\obj\Debug\net7.0\ref\Exercise01-intro.dll
